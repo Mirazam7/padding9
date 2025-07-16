@@ -1,0 +1,55 @@
+body{
+background-color:#2A5D5A;
+}
+
+.margin{
+background: #311313;
+width:636px;
+height:116px;
+margin-top:22px;
+margin-left:381px;
+}
+.mar{
+    width: 591px;
+height: 69px;
+padding: auto;
+padding-top: 25px;
+padding-left: 50px;
+font-family: Inter;
+font-weight: 700;
+font-style: Bold;
+font-size: 64px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: justify;
+color: white;
+}
+.red{
+width: 1000;
+height: 638;
+margin-top: 130px;
+margin-left: 220px;
+border-width: 10px;
+border: 7px solid red;
+
+}
+.black{
+    border: 13px solid black;
+}
+
+.fd{
+    background-color: #1FE8B7;
+border: 5px solid black;
+}
+.rs{
+font-family: Inter;
+font-weight: 700;
+font-style: Bold;
+font-size: 24px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: justify;
+
+
+
+}
